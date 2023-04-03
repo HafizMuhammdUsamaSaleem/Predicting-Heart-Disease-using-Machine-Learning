@@ -27,4 +27,4 @@ The project requires the following software and packages to run:
 To run the project, clone the repository and run the Jupyter Notebook file in a Python environment with the required packages installed.
 
 ## Credits
-The project was developed by [Your Name] as part of a machine learning course. The Cleveland Heart Disease dataset was obtained from the UCI Machine Learning Repository.
+The project was developed by Hafiz Muhammad Usama Saleem as part of a machine learning course. The Cleveland Heart Disease dataset was obtained from the UCI Machine Learning Repository.
